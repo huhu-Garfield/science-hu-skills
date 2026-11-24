@@ -6,8 +6,8 @@ Two independently installable skills for designing scientific figures and conver
 
 | Skill | Use it for | Install ZIP |
 | --- | --- | --- |
-| `science-hu-figure-design` | Develop a figure prompt from a scientific storyline, review a draft, and export the approved figure. | [Download ZIP](science-hu-figure-design.zip) |
-| `science-hu-vectorize` | Convert an existing image or compatible SVG into editable artwork. | [Download ZIP](science-hu-vectorize.zip) |
+| [science-hu-figure-design](science-hu-figure-design/README.md) | Develop a figure prompt from a scientific storyline, review a draft, and export the approved figure. | [Download ZIP](science-hu-figure-design.zip) |
+| [science-hu-vectorize](science-hu-vectorize/README.md) | Convert an existing image or compatible SVG into editable artwork. | [Download ZIP](science-hu-vectorize.zip) |
 
 Import the relevant ZIP into a workbench that supports Skill uploads, or extract its folder into `~/.agents/skills/` for Codex or `~/.claude/skills/` for Claude Code. Follow the individual README for usage and dependencies. Local conversion requires Python and no API key. The first run can download dependencies.
 
